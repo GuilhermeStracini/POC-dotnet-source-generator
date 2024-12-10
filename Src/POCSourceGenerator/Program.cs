@@ -1,4 +1,4 @@
-﻿namespace POCTemplate;
+﻿namespace POCSourceGenerator;
 
 internal static class Program
 {
