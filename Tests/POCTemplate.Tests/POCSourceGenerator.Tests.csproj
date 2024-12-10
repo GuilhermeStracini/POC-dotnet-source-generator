@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Src\POCTemplate\POCTemplate.csproj" />
+    <ProjectReference Include="..\..\Src\POCSourceGenerator\POCSourceGenerator.csproj" />
   </ItemGroup>
 
 </Project>
