@@ -1,0 +1,15 @@
+code_scanning_tools:
+  sonarcloud:
+    enabled: true
+    schedule: weekly
+  sonarqube:
+    enabled: true
+    schedule: weekly
+  codeql:
+    enabled: true
+    schedule: weekly
+  semgrep:
+    enabled: true
+    schedule: weekly
+
+alerts: true
